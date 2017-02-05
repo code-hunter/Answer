@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="use_activity">true</bool>
+    <bool name="use_provider">false</bool>
+    <color name="biz_audio_progress_bg">#00b2ff</color>
+    <color name="biz_audio_progress_first">#ffffff</color>
+    <color name="biz_audio_progress_second">#6b6666</color>
+    <color name="black38_text">#383838</color>
+    <color name="black_a10_color">#1a000000</color>
+    <color name="black_text">#FF18191A</color>
+    <color name="default_bg">#aa000000</color>
+    <color name="divider_color">#55504a</color>
+    <color name="info_black_text">#585858</color>
+    <color name="info_blue_text">#3993f3</color>
+    <color name="info_gray_text">#979797</color>
+    <color name="info_honorroll_item_text">#656565</color>
+    <color name="info_layout_bg">#eaeaea</color>
+    <color name="lucky_text_black">#676566</color>
+    <color name="lucky_text_red">#e43b1c</color>
+    <color name="lucky_text_redtop">#e33b20</color>
+    <color name="main_bg">#288df5</color>
+    <color name="menu_bottom_bg">#288df5</color>
+    <color name="menu_bottom_text">#f2f8ff</color>
+    <color name="my_error_question_text_black">#333333</color>
+    <color name="normal_color">#ffffffff</color>
+    <color name="practice_test_content_text">#2f2f2f</color>
+    <color name="practice_test_no_text">#2b89e9</color>
+    <color name="practice_test_result_detail_text">#ab8b28</color>
+    <color name="practice_test_result_right_text">#61bc31</color>
+    <color name="practice_test_result_statistics_text">#2991f4</color>
+    <color name="practice_test_result_text">#9a9a9a</color>
+    <color name="practice_test_result_wrong_text">#d53235</color>
+    <color name="select_color">#00b2ff</color>
+    <color name="view_manager">#e3e3e3</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btn_height">45dip</dimen>
+    <dimen name="home_menu_margin_5">5dip</dimen>
+    <dimen name="home_menu_margin_8">8dip</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_padding">0dp</dimen>
+    <dimen name="margin_10">10dip</dimen>
+    <dimen name="margin_15">15dip</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">app答题系统</string>
+    <string name="choose_file">Select a file</string>
+    <string name="empty_directory">Empty Directory</string>
+    <string name="error_selecting_file">Error selecting File</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="recomm_prefecture_video_erro">视频播放错误，请重试!</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/bg_dialog</item>
+    </style>
+    <style name="fileChooserName">
+        <item name="android:drawablePadding">@dimen/list_item_padding</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:paddingLeft">@dimen/list_item_padding</item>
+        <item name="android:paddingRight">@dimen/list_item_padding</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    <style name="menu_bottom_text">
+        <item name="android:textColor">@color/menu_bottom_text</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

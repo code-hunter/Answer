@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\my_error_question_item.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\my_error_question_item.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\list_video_activity.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\list_video_activity.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_full.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\activity_full.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\my_error_question_detail.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\my_error_question_detail.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\super_video_view.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\super_video_view.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\list_video_item.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\list_video_item.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\my_dialog.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\my_dialog.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\vote_submit_viewpager_item.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\vote_submit_viewpager_item.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\file.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\file.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_practice_test.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\activity_practice_test.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\super_video_media_controller.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\super_video_media_controller.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\layout\\my_error_question.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\layout\\my_error_question.xml"
+    }
+]

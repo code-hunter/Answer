@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.answer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.answer.activity.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".activity.AnalogyExaminationActivity"
+            android:configChanges="keyboardHidden|navigation|orientation"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name=".activity.MyErrorQuestionActivity"
+            android:configChanges="keyboardHidden|navigation|orientation"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name=".activity.MyErrorQuestionDetailActivity"
+            android:configChanges="keyboardHidden|navigation|orientation"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <activity android:name=".activity.FullVideoActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="Video"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <activity android:name=".activity.VideoListActivity"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:label="Video"
+                  android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".activity.FileChooserActivity"
+            android:icon="@drawable/ic_chooser"
+            android:exported="true"
+            android:label="@string/choose_file" >
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.OPENABLE" />
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+        
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+</manifest>

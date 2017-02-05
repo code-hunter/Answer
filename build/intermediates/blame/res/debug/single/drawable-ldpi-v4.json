@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_black_a10_selector.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-ldpi\\bg_black_a10_selector.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\biz_video_progressbar.xml",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-ldpi\\biz_video_progressbar.xml"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg.jpg",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-ldpi\\bg.jpg"
+    }
+]

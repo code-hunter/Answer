@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:3:5-33
+	android:versionName
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:5:5-30
+		INJECTED from D:\space\NO3\Answer\AndroidManifest.xml
+		INJECTED from D:\space\NO3\Answer\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:4:5-28
+		INJECTED from D:\space\NO3\Answer\AndroidManifest.xml
+		INJECTED from D:\space\NO3\Answer\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:8:9-35
+application
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:11:5-75:19
+	android:label
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:13:9-50
+	android:theme
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:15:9-40
+activity#com.example.answer.activity.MainActivity
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:17:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:22:27-74
+activity#com.example.answer.activity.AnalogyExaminationActivity
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:26:9-32:20
+	android:screenOrientation
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:29:13-45
+	android:launchMode
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:30:13-43
+	android:configChanges
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:27:13-64
+activity#com.example.answer.activity.MyErrorQuestionActivity
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:34:9-40:20
+	android:screenOrientation
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:37:13-45
+	android:launchMode
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:38:13-43
+	android:configChanges
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:36:13-74
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:35:13-61
+activity#com.example.answer.activity.MyErrorQuestionDetailActivity
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:42:9-48:20
+	android:screenOrientation
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:45:13-45
+	android:launchMode
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:46:13-43
+	android:configChanges
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:44:13-74
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:43:13-67
+activity#com.example.answer.activity.FullVideoActivity
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:50:9-54:20
+	android:screenOrientation
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:52:13-34
+	android:configChanges
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:51:13-74
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:50:19-61
+activity#com.example.answer.activity.VideoListActivity
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:56:9-60:20
+	android:screenOrientation
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:59:19-55
+	android:label
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:58:19-40
+	android:configChanges
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:57:19-80
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:56:19-61
+activity#com.example.answer.activity.FileChooserActivity
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:62:9-73:20
+	android:label
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:66:13-48
+	android:exported
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:65:13-36
+	android:icon
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:64:13-48
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:63:13-57
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:67:13-72:29
+action#android.intent.action.GET_CONTENT
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:68:17-76
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:68:25-73
+category#android.intent.category.DEFAULT
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:69:27-73
+category#android.intent.category.OPENABLE
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:70:17-77
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:70:27-74
+data
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:71:17-48
+	android:mimeType
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:71:23-45
+uses-permission#android.permission.INTERNET
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:76:5-67
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:76:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:77:5-80
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:77:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\space\NO3\Answer\AndroidManifest.xml:78:5-83
+	android:name
+		ADDED from D:\space\NO3\Answer\AndroidManifest.xml:78:22-81

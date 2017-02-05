@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_provider.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\ic_provider.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_expand.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\biz_video_expand.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_chooser.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\ic_chooser.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_shrink.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\biz_video_shrink.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_folder.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\ic_file.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_progress_thumb.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\biz_video_progress_thumb.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_play.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\biz_video_play.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\space\\NO3\\Answer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_pause.png",
+        "source": "D:\\space\\NO3\\Answer\\res\\drawable-xhdpi\\biz_video_pause.png"
+    }
+]

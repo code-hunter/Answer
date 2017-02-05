@@ -1,0 +1,113 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    
+    <include
+        android:id="@+id/header"
+        layout="@layout/header" />
+
+<LinearLayout
+    android:id="@+id/rl_01"
+    android:layout_marginTop="180dp"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/b_simtest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="模拟考试"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
+            android:padding="10dip"
+            android:background="@drawable/darkblue_btn_bg"
+            />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/b_randtest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="随机抽题"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
+            android:padding="10dip"
+            android:background="@drawable/darkblue_btn_bg"
+            />
+    </RelativeLayout>
+
+
+</LinearLayout>
+    <LinearLayout
+        android:id="@+id/rl_02"
+        android:layout_below="@+id/rl_01"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/b_video"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="视频教学"
+                android:textColor="#ffffff"
+                android:textSize="16sp"
+                android:padding="10dip"
+                android:background="@drawable/darkblue_btn_bg"
+                android:layout_centerHorizontal="true"
+                />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/b_wrongtest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="错题练习"
+                android:textColor="#ffffff"
+                android:textSize="16sp"
+                android:padding="10dip"
+                android:background="@drawable/darkblue_btn_bg"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/b_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="导入数据库"
+        android:layout_marginRight="80dp"
+        android:layout_below="@id/rl_02"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:padding="10dip"
+        android:background="@drawable/darkblue_btn_bg"
+        />
+</RelativeLayout>
